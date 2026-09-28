@@ -1,6 +1,6 @@
 # 📚 Guia de Estudos — Linguagens de Programação e Fundamentos Básicos
 
-Este repositório é um **guia de estudos pessoal sobre programação**, criado com o objetivo de organizar e compartilhar conhecimentos, anotações e referências que venho utilizando durante minha jornada como estudante de Engenharia de Software.
+Este repositório é um **guia de estudos pessoal sobre programação e elaboração de prompts para I.A**, criado com o objetivo de organizar e compartilhar conhecimentos, anotações e referências que venho utilizando durante minha jornada como estudante de Engenharia de Software. Os documentos consistem em Fundamentos e Sintaxes de algumas das linguagens de programação que tenho praticado em aula e cursos livres.
 
 > ⚠️ **Importante:** não sou profissional ou especialista na área. Este material representa a minha experiência de estudo, algumas anotações e a forma como estou buscando compreender os conceitos de programação utilizando I.A para auxiliar no aprendizado sem copiar nada pronto.
 
@@ -10,7 +10,7 @@ A ideia de disponibilizar este conteúdo publicamente é simples: **aprender, or
 
 ## 🎯 Objetivo
 
-Este guia foi criado para me ajudar a construir uma base mais sólida em programação, principalmente nos conceitos fundamentais que podem ser aplicados em diferentes linguagens.
+Este guia foi criado para me ajudar a construir uma base mais sólida em programação e conceitos de engenharia de prompt, principalmente nos conceitos fundamentais que podem ser aplicados em diferentes linguagens.
 Hoje, meu conhecimento é bem básico e foco muito em aprender lógica de programação e algoritmos. Tentando entender a base por trás de cada instrução. Porém, ainda tenho dificuldades em transferir a lógica para a sintaxe da linguagem, e esses guias tem me auxiliado a não travar na parte de escrita de sintaxes.
 Ainda faltam muitas linguagens para aprender e estudar, e pouco a pouco vou disponibilizando aqui conforme for praticando.
 Mais do que decorar sintaxes, estou buscando entender:
@@ -63,7 +63,7 @@ A organização pode mudar com o tempo conforme o conteúdo for sendo aprimorado
 
 ## 🔍 Por que estudar os fundamentos?
 
-Durante o aprendizado de programação, é muito fácil ficar preso à sintaxe de uma determinada linguagem.
+Durante o aprendizado de programação, é muito fácil ficar preso à sintaxe de uma determinada linguagem assim como eu fiquei (e muuuuito...).
 
 Por isso, este guia busca dar atenção também aos conceitos que aparecem de formas diferentes em diversas linguagens.
 
@@ -75,9 +75,9 @@ Entender os fundamentos pode ajudar a tornar o aprendizado de novas tecnologias 
 
 ## 📈 Um guia em constante evolução
 
-Este projeto não está pronto e provavelmente nunca estará.
+Este projeto não está pronto ainda e provavelmente nunca estará.
 
-Conforme avanço nos meus estudos, novas informações podem ser adicionadas, conteúdos podem ser reorganizados e explicações podem ser melhoradas.
+Conforme avanço nos meus estudos, novas informações serão adicionadas, conteúdos podem ser reorganizados e explicações podem ser melhoradas.
 
 Isso faz parte do próprio propósito do repositório:
 
