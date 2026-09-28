@@ -1,0 +1,345 @@
+# 🗺️ Por onde começar?
+
+Se você está começando a estudar programação, provavelmente já percebeu uma coisa: existem muitas linguagens, conceitos, ferramentas e tecnologias diferentes.
+
+É normal olhar para tudo isso e não saber exatamente por onde começar.
+
+A proposta deste guia é ajudar a organizar esse caminho.
+
+Você não precisa aprender tudo ao mesmo tempo. O mais importante é construir uma base aos poucos, praticar bastante e entender os conceitos antes de tentar avançar para assuntos mais complexos.
+
+---
+
+## 🌱 Uma sugestão de caminho
+
+```text
+🧠 Lógica de programação
+        ↓
+📦 Variáveis e tipos de dados
+        ↓
+➕ Operadores
+        ↓
+🔀 Estruturas condicionais
+        ↓
+🔁 Estruturas de repetição
+        ↓
+🧩 Funções
+        ↓
+📚 Arrays / listas / coleções
+        ↓
+🧱 Organização do código
+        ↓
+🏗️ Orientação a Objetos
+        ↓
+🗄️ Banco de dados e SQL
+        ↓
+🛠️ Projetos práticos
+```
+
+Essa sequência não precisa ser seguida de forma rígida.
+
+Cada pessoa aprende em um ritmo diferente e pode precisar voltar para conceitos anteriores várias vezes.
+
+O caminho abaixo é apenas uma **sugestão baseada naquilo que funcionou para mim durante meus estudos**.
+
+---
+
+## 🧠 1. Comece pela lógica
+
+Antes de pensar em sintaxe, tente entender o problema que precisa ser resolvido.
+
+Pergunte:
+
+- Qual é o problema?
+- Quais informações preciso receber?
+- O que preciso fazer com essas informações?
+- Qual resultado espero obter?
+- Preciso tomar alguma decisão?
+- Existe alguma tarefa que precisa ser repetida?
+
+A lógica é a base que permite transformar um problema em uma sequência de passos.
+
+Por isso, aprender apenas a sintaxe de uma linguagem não é suficiente.
+
+---
+
+## 📦 2. Aprenda os fundamentos
+
+Depois de começar a entender lógica, avance para os conceitos que aparecem em praticamente todas as linguagens.
+
+Alguns dos principais são:
+
+- variáveis;
+- tipos de dados;
+- operadores;
+- condições;
+- estruturas de repetição;
+- funções;
+- arrays e coleções;
+- entrada e saída de dados.
+
+Esses conceitos podem aparecer com sintaxes diferentes, mas a ideia por trás deles continua semelhante.
+
+Por exemplo:
+
+```text
+C       → if (...)
+Java    → if (...)
+Python  → if ...
+```
+
+A escrita muda.
+
+O conceito continua existindo.
+
+---
+
+## 💻 3. Escolha uma linguagem para praticar
+
+Não é necessário tentar aprender várias linguagens ao mesmo tempo.
+
+Escolha uma linguagem para praticar os fundamentos e vá construindo confiança.
+
+Neste repositório existem diferentes linguagens justamente para facilitar a comparação entre elas.
+
+A ideia não é decorar:
+
+```text
+"Em Java é assim."
+"Em Python é assado."
+```
+
+O objetivo é perceber:
+
+> "Eu entendo o conceito. Agora preciso descobrir como esta linguagem representa esse conceito."
+
+Essa mudança de pensamento ajuda bastante quando você começa a aprender outras linguagens.
+
+### 💡 Uma experiência pessoal
+
+Meu interesse por programação começou principalmente por causa do **Design**.
+
+Sou formado em **Tecnologia em Design Gráfico** e, logo depois, fiz um **MBA em Gestão Estratégica de UX Design**.
+
+Gostei muito dessa área e comecei a pensar:
+
+> **"Por que não unir Design com código e entregar um material mais completo para os meus clientes?"**
+
+Foi a partir dessa ideia que surgiu meu interesse por programação.
+
+Ingressei no curso de **Engenharia de Software** com o objetivo de ampliar minha carreira, unir conhecimentos de áreas diferentes e oferecer um serviço cada vez mais completo aos clientes.
+
+Nesse caminho, fui conhecendo diferentes tecnologias conforme surgiam oportunidades e, principalmente, conforme encontrava novas dificuldades nos meus próprios estudos.
+
+Comecei meus estudos aprendendo **HTML, CSS e JavaScript, incluindo manipulação do DOM**, através dos cursos do **Curso em Vídeo, do professor Gustavo Guanabara**.
+
+Essa experiência me ajudou muito a compreender os conceitos iniciais de Front-end e, principalmente, a perceber como diferentes partes de uma aplicação se conectam.
+
+Também considero que a didática do Curso em Vídeo foi muito importante para mim, principalmente durante essa fase inicial.
+
+O curso de **Lógica de Programação** também teve um papel fundamental no meu aprendizado e me ajudou a compreender diversos conceitos que voltariam a aparecer posteriormente em outras linguagens.
+
+Depois comecei a estudar **Python na faculdade**.
+
+A sintaxe mais limpa e direta da linguagem me ajudou bastante a colocar em prática vários conceitos de programação e a perceber que um mesmo problema pode ser resolvido de maneiras diferentes dependendo da linguagem utilizada.
+
+Mais recentemente, busquei um desafio maior com **Java**, através do **Bootcamp Santander Java Back-End**.
+
+Essa experiência ampliou bastante minha visão sobre o desenvolvimento do lado do servidor e me colocou em contato com conceitos como **APIs, back-end e outros fundamentos relacionados ao desenvolvimento de sistemas**.
+
+Também tive uma experiência profissional atuando como **Assistente de Automação**, utilizando ferramentas como **n8n e APIs**.
+
+Apesar de ser uma experiência baseada em uma abordagem **Low-Code**, ela me trouxe uma visão ainda maior sobre lógica de programação, integração entre sistemas, construção de fluxos e resolução de problemas.
+
+Foi também nesse contexto que passei a utilizar a **Inteligência Artificial de forma mais presente nos meus estudos e na resolução de problemas**, não apenas para obter respostas prontas, mas como uma espécie de professor, parceiro de investigação e ferramenta para ampliar minha forma de aprender.
+
+Essa experiência acabou reforçando uma percepção que se tornou muito importante para mim:
+
+> **Não preciso necessariamente saber tudo de imediato. Preciso saber como investigar, testar, aprender e continuar evoluindo.**
+
+Ainda estou aprendendo e meu caminho está longe de terminar.
+
+Mas justamente por isso decidi compartilhar parte dessa trajetória neste projeto.
+
+Talvez algumas das dificuldades que encontrei também sejam familiares para outras pessoas que estão começando.
+
+---
+
+## 🔎 4. Use os guias como material de apoio
+
+Os arquivos deste projeto foram criados como material de consulta.
+
+Você pode utilizá-los para:
+
+- estudar um conceito;
+- revisar algo que já aprendeu;
+- consultar uma sintaxe;
+- comparar linguagens;
+- entender erros comuns;
+- testar exemplos;
+- encontrar ideias para exercícios.
+
+Não é necessário decorar tudo.
+
+Use o material como uma espécie de mapa para orientar seus estudos.
+
+---
+
+## ✍️ 5. Tente escrever antes de procurar a resposta
+
+Ao receber um exercício, tente resolver por conta própria antes de procurar uma solução pronta.
+
+Mesmo que você erre.
+
+Uma boa sequência de estudo é:
+
+```text
+🤔 Entender o problema
+        ↓
+🧠 Pensar na lógica
+        ↓
+✍️ Tentar escrever
+        ↓
+▶️ Executar
+        ↓
+❌ Encontrar erros
+        ↓
+🔎 Investigar
+        ↓
+🔧 Corrigir
+        ↓
+🧠 Entender o motivo
+```
+
+Esse processo pode ser mais demorado do que simplesmente copiar uma solução.
+
+Mas é justamente nele que grande parte do aprendizado acontece.
+
+---
+
+## ⚠️ 6. Não tenha medo dos erros
+
+Erros fazem parte do aprendizado de programação.
+
+Um erro de sintaxe, uma variável com valor errado, um `if` que não funciona ou um programa que produz um resultado inesperado podem mostrar exatamente aquilo que você ainda precisa entender.
+
+Em vez de pensar:
+
+> "Meu código está errado."
+
+Tente pensar:
+
+> "O que esse erro está tentando me mostrar?"
+
+Aprender a investigar erros é uma habilidade muito importante para quem programa.
+
+---
+
+## 🏗️ 7. Depois, comece a criar pequenos projetos
+
+Quando os fundamentos começarem a ficar mais naturais, coloque os conceitos juntos.
+
+Não precisa começar com um sistema enorme.
+
+Alguns exemplos:
+
+```text
+🧮 Calculadora
+📊 Sistema de notas
+📝 Lista de tarefas
+👤 Cadastro simples
+🛒 Controle de produtos
+📚 Sistema de biblioteca
+```
+
+Projetos pequenos ajudam a perceber como os conceitos estudados se conectam.
+
+---
+
+## 🗄️ 8. Comece a entender banco de dados
+
+Depois de dominar melhor os fundamentos de programação, vale começar a estudar bancos de dados.
+
+Aprenda conceitos como:
+
+- tabelas;
+- registros;
+- chaves primárias;
+- chaves estrangeiras;
+- relacionamentos;
+- `SELECT`;
+- `INSERT`;
+- `UPDATE`;
+- `DELETE`;
+- `JOIN`;
+- `GROUP BY`.
+
+SQL é especialmente importante para quem pretende trabalhar com sistemas e back-end.
+
+---
+
+## 🚀 9. Continue aumentando a dificuldade
+
+Depois dos fundamentos, você pode avançar gradualmente para assuntos mais específicos da área que deseja seguir.
+
+Por exemplo:
+
+```text
+Fundamentos
+    ↓
+Linguagem
+    ↓
+Estruturas de dados
+    ↓
+Banco de dados
+    ↓
+Git e GitHub
+    ↓
+APIs
+    ↓
+Frameworks
+    ↓
+Projetos
+    ↓
+Mercado
+```
+
+Você não precisa chegar ao último nível rapidamente.
+
+O importante é construir uma base que permita continuar aprendendo.
+
+---
+
+## 🔄 O mais importante
+
+Não pense em programação como algo que precisa ser aprendido inteiro de uma vez.
+
+O processo pode ser muito mais parecido com:
+
+```text
+Aprender
+   ↓
+Praticar
+   ↓
+Errar
+   ↓
+Investigar
+   ↓
+Entender
+   ↓
+Corrigir
+   ↓
+Praticar novamente
+```
+
+Voltar para assuntos anteriores faz parte do aprendizado.
+
+Consultar documentação faz parte do aprendizado.
+
+Pesquisar faz parte do aprendizado.
+
+Perguntar também faz parte do aprendizado.
+
+> **Você não precisa saber tudo para começar. Precisa continuar aprendendo para evoluir.**
+
+Boa jornada! 🚀
